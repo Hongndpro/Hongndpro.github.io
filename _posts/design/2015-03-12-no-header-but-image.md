@@ -1,7 +1,7 @@
 ---
 layout: page
 subheadline:  "Headers With Style"
-title:  "No Header but Article Image _tại sao lại như thế"
+title:  "tại sao lại như thế"
 teaser: "Feeling Responsive enables you to get the attention of visitors. If you don't want to use a big header, use an image for the article instead."
 categories:
     - design
